@@ -14,7 +14,7 @@ Mexico City is one of the most congested cities in the world. At peak timings, t
 
 Solutions are difficult. A comprehensive solution would require substantial infrastructure changes (electric charging stations, reconfiguring roads and highways, investments in public transit, etc) along with many other targeted policies (rebates and taxes to promote electric vehicle ownership/discourage gas use, no-drive days, etc). A working solution would need to combine all these things in some yet undetermined way. It's hard!
 
-To even begin thinking about soultions, we need to understand the problem in more specific ways. Right now, though we generally know total emissions figures, we don't really understand where and when emissions are the heaviest. The spatial distribution of emissions is incredibly important for isolating where infrastructure changes need to happen, what public health challenges are faced by certain communities of people, and more. 
+To even begin thinking about solutions, we need to understand the problem in more specific ways. Right now, though we generally know total emissions figures, we don't really understand where and when emissions are the heaviest. The spatial distribution of emissions is incredibly important for isolating _where_ infrastructure changes need to happen, what public health challenges are faced by certain communities of people, and more. 
 
 This was an attempt to use traffic data from Waze and an EPA tool called MOVES to figure out the spatial distribution of traffic and pollution. Due to the high volume of data (over 700GB of text), substantial preprocessing and simplifications of the MOVES algorithms needed to be done (it would take decades, even on a distributed cluster, for MOVES to process all that data). 
 
